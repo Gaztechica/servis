@@ -6,7 +6,6 @@ body{
 }
 *{ margin: 0; padding: 0;	}
 
-
 header{
 	background:linear-gradient 
 	background- color: #fffafa, #faeb07;
@@ -287,7 +286,6 @@ border:5px solid #323232;
   font-size: 20px;
   color: #b91125;
   cursor: pointer;
-
   transition: background .2s
   ease-out;
  }
@@ -344,22 +342,16 @@ font-size: 26px;
 
 
 .fot{
-	max-width: 500px;
-  margin: 10px auto;
-	
+ 	  max-width: 500px;
+ 	 margin: 10px auto;
 	background-color: #ccc;
 	border-radius: 5px;
 	display: inline;
 	
-
-	
-	
-
 }
 
 
 .foto_1{
-
  width: 730px;
  margin: 30px auto;
  border-radius: 15%;
